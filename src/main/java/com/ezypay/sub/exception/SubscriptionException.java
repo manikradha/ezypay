@@ -1,6 +1,6 @@
-package com.easypay.sub.exception;
+package com.ezypay.sub.exception;
 
-import com.easypay.sub.model.Subscription;
+import com.ezypay.sub.model.Subscription;
 
 import javax.validation.ConstraintViolation;
 import java.util.Set;

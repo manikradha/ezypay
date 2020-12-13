@@ -1,4 +1,4 @@
-package com.easypay.sub.utils;
+package com.ezypay.sub.utils;
 
 public class Constant {
 

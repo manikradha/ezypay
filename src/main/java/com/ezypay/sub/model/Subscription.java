@@ -1,12 +1,10 @@
-package com.easypay.sub.model;
+package com.ezypay.sub.model;
 
-import com.easypay.sub.utils.Constant;
+import com.ezypay.sub.utils.Constant;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 import org.springframework.data.elasticsearch.annotations.Field;
 import org.springframework.data.elasticsearch.annotations.FieldType;
-
-import javax.validation.constraints.NotBlank;
 
 import java.util.Objects;
 

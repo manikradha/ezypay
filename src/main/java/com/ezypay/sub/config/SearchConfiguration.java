@@ -1,6 +1,6 @@
-package com.easypay.sub.config;
+package com.ezypay.sub.config;
 
-import com.easypay.sub.utils.Constant;
+import com.ezypay.sub.utils.Constant;
 import org.elasticsearch.client.IndicesAdminClient;
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;

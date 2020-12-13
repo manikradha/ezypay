@@ -1,4 +1,4 @@
-package com.easypay.sub.exception;
+package com.ezypay.sub.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
